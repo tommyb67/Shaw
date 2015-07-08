@@ -1,3 +1,4 @@
+# assign a name supplied by the user to the filename variable
 filename = ARGV.first
 
 txt = open(filename)
